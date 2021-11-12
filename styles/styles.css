@@ -66,6 +66,19 @@ img {
   opacity: 0.8;
 }
 
+.obs {
+  background-color: #eea;
+  max-width: 320px;
+  padding: 8px;
+  border-radius: 8px;
+  margin: 16px;
+  text-align: center;
+}
+
+.negrito {
+  font-weight: bold;
+}
+
   @media (max-width: 660px) {
     .img-logo {
       width: 100px;
